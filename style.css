@@ -152,3 +152,33 @@ button {
   color: #1f2937;
   padding-right: 32px;
 }
+
+/* Call to action */
+
+.call-to-action {
+  color: white;
+  padding: 128px;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #3882f6;
+  padding: 64px 128px;
+  border-radius: 8px;
+}
+
+.action-heading {
+  font-size: 24px;
+  font-weight: 900;
+  margin-bottom: 8px;
+}
+
+.call-to-action p {
+  font-size: 18px;
+}
+
+.call-to-action button {
+  border: 3px solid white;
+}
